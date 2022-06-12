@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+
+.darkviolet{
+	color: darkviolet;
+}
+
+.formLabel {
+	margin-right: 77px;
+}
+
+.formTable {
+	border-collapse: separate;
+	border-spacing: 0 5px;
+}
+
+.formDiv {
+	width: 450px;
+}
+
+.alignEnd {
+	float: right;
+}
+
+.bookFormInput {
+	width: 320px;
+}
+
+textarea {
+	height: 80px;
+}
+
+.showThoughts {
+	width: 700px;
+}
